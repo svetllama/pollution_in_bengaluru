@@ -1,0 +1,12 @@
+variable,negative_count,negative_pct
+pm25,0,0.0
+pm10,0,0.0
+no,0,0.0
+no2,0,0.0
+nox,0,0.0
+nh3,0,0.0
+so2,0,0.0
+co,0,0.0
+o3,0,0.0
+benzene,0,0.0
+toluene,0,0.0
